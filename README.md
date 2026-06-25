@@ -26,16 +26,6 @@
 
 ---
 
-## 🎬 Demo
-
-> _Simulation running in Gazebo Classic 11 with RViz2 showing real-time map building, costmaps, and Nav2 goal execution._
-
-| Gazebo Simulation | RViz2 Navigation View |
-|:-----------------:|:---------------------:|
-| _(screenshot)_ | _(screenshot)_ |
-
----
-
 ## 🧭 Overview
 
 **`project_ow_nav2`** is a ROS 2 Humble package that simulates a custom differential-drive robot — `Dhruv_robot` — in Gazebo Classic 11. The robot autonomously navigates a walled obstacle arena using:
